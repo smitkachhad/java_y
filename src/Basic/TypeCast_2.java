@@ -15,5 +15,11 @@ public class TypeCast_2 {
         byte b= (byte) i;
         System.out.println(b); //moduler  divide by byte size 257 and module will print
 
+        byte b1=10;
+        byte b2=30;
+        int i1=b1*b2;
+        System.out.println(i1); // type promotion
+
+
     }
 }

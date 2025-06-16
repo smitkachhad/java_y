@@ -8,7 +8,7 @@ public class TernaryOpe_5 {
 
         int result;
 
-        result= x>y ? 10 : 20;
+        result= x>y ? 10 : 200;
             //if x> y print 10 or else print 20
 
         System.out.println(result);

@@ -26,7 +26,7 @@ public class switch_5 {
                     default ->
                         System.out.println("No match found");*/
 
-        int x=9;
+        int x=20;
         int y;
         y= switch(x){
             case 8 -> 8;
